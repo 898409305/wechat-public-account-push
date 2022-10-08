@@ -1,7 +1,7 @@
 const USER_CONFIG = {
     "APP_ID":"wx455c71d2aa69526d",
     "APP_SECRET":"0b2587b309facefb0470f54b08bf41a3",
-    "IS_SHOW_COLOR":false,
+    "IS_SHOW_COLOR":true,
     "CALLBACK_TEMPLATE_ID":"",
     "CALLBACK_USERS":[
         {
