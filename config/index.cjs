@@ -6,14 +6,14 @@ const USER_CONFIG = {
     "CALLBACK_USERS":[
         {
             "name":"自己",
-            "id":"oTMJv6bYoM-HSCy0xEjv3Vlt-cOA"
+            "id":"oTMJv6TWDfAvvyQ09yWzj8pVUA3A"
         }
     ],
     "USERS":[
         {
             "name":"静静",
-            "id":"oTMJv6bYoM-HSCy0xEjv3Vlt-cOA",
-            "useTemplateId":"i4iq5lOQJVEX1QcafQzIRWX9kDLF2IEogL4eFQ7tItQ",
+            "id":"oTMJv6TWDfAvvyQ09yWzj8pVUA3A",
+            "useTemplateId":"3nP_8Iv44p2ySosjDcO0a9_mrQ36EkHUSVJaXNXdRQg",
             "province":"山东",
             "city":"临沂",
             "horoscopeDate":"01-19",
