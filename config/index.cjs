@@ -18,7 +18,7 @@ const USER_CONFIG = {
             "horoscopeDate":"01-19",
             "horoscopeDateType":"今日",
             "openUrl":"https://weibo.com/newlogin?tabtype=search&openLoginLayer=0&url=",
-            "festivals":[{"type":"*生日","name":"距离静静的生日还有：","date":"01-19","year":"2000"}],
+            "festivals":[{"type":"*生日","name":"静静","date":"01-19","year":"2000"}],
             "customizedDateList":[]
                 }   
             ],
