@@ -12,7 +12,7 @@ const USER_CONFIG = {
         {
             "name":"静静",
             "id":"oTMJv6bYoM-HSCy0xEjv3Vlt-cOA",
-            "useTemplateId":"RabTgCm-RNpBd6d12uTSRdCrLFG6eDXh6JPmNFig_wU",
+            "useTemplateId":"i4iq5lOQJVEX1QcafQzIRWX9kDLF2IEogL4eFQ7tItQ",
             "province":"山东",
             "city":"临沂",
             "horoscopeDate":"01-19",
