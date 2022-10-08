@@ -6,20 +6,20 @@ const USER_CONFIG = {
     "CALLBACK_USERS":[
         {
             "name":"自己",
-            "id":"oTMJv6TWDfAvvyQ09yWzj8pVUA3A"
+            "id":"oTMJv6bYoM-HSCy0xEjv3Vlt-cOA"
         }
     ],
     "USERS":[
         {
             "name":"静静",
-            "id":"oTMJv6TWDfAvvyQ09yWzj8pVUA3A",
+            "id":"oTMJv6bYoM-HSCy0xEjv3Vlt-cOA",
             "useTemplateId":"3nP_8Iv44p2ySosjDcO0a9_mrQ36EkHUSVJaXNXdRQg",
             "province":"山东",
             "city":"临沂",
             "horoscopeDate":"01-19",
             "horoscopeDateType":"今日",
             "openUrl":"https://weibo.com/newlogin?tabtype=search&openLoginLayer=0&url=",
-            "festivals":[{"type":"*生日","name":"静静","date":"01-19","year":"2000"}],
+            "festivals":[{"type":"生日","name":"静静","date":"01-19","year":"2000"}],
             "customizedDateList":[]
                 }   
             ],
